@@ -1,6 +1,6 @@
 ## Hi! Im Simão Curado 🖐️
 
-[![Website](https://img.shields.io/website?label=simaonevescurado.github.io&style=for-the-badge&url=https://simaonevescurado.github.io/)]([https://simaonevescurado.github.io](https://simaonevescurado.github.io))
+[![Website](https://img.shields.io/website?label=simaonevescurado.github.io&style=for-the-badge&url=https://simaonevescurado.github.io)]([https://simaonevescurado.github.io](https://simaonevescurado.github.io))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simao.curado/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SimaoCurado)
 
