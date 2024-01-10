@@ -11,7 +11,7 @@
  
  🔭 I’m currently working as **a freelancer**
  
- 🌱 I’m currently learning **Rust, JS/TS, Python, some other things**
+ 🌱 I’m currently learning **React,Node.js and some other things**
 
 ⚡ Fun fact **I love the gym**
 
@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ FAV Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=rust,c,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=rust,c,html,css,vscode,github,react,node,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,photoshop,bootstrap,cmake" /><br>
 </div>
 
