@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Working/Studying with ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,r,c,java,php,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,r,c,java,php,html,css" />
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,bootstrap,tailwind,cmake" /><br>
 </div>
 
