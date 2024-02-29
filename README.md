@@ -30,7 +30,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ FAV Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Working with ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,r,c,php,html,css,vscode,github,git" />
