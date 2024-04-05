@@ -10,7 +10,7 @@
  
  🔭 I’m currently working as **a freelancer**
  
- 🌱 I’m currently learning **React,Node.js,rust and some other things**
+ 🌱 I’m currently learning **React,Node.js, and some other things**
 
 ⚡ Fun fact **I love the gym**
 
@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Working/Studying with ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,rust,bash,nodejs,nextjs,r,c,java,php,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,bash,nodejs,nextjs,r,c,java,php,html,css" />
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,bootstrap,tailwind,cmake" /><br>
 </div>
 
