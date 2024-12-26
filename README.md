@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Working/Studying with ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bash,react,nextjs,figma" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,bootstrap,tailwind,git" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,figma" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,bootstrap,tailwind,git" /><br>
 </div>
 
 <br/>
