@@ -7,9 +7,9 @@
 <br/>
 
 <div align="center">
-  🔭 Currently working as a **fullstack developer** <br/>
-  🌱 Specializing in **PHP, Laravel, React, JavaScript, Tailwind, Git, Docker & PostgreSQL** <br/>
-  ⚡ Fun fact: **I love the gym**
+  🔭 Currently working as a fullstack developer <br/>
+  🌱 Specializing in PHP, Laravel, React, JavaScript, Tailwind, Git, Docker & PostgreSQL <br/>
+  ⚡ Fun fact: I love the gym
 </div>
 
 <br/>
