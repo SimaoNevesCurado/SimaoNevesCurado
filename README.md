@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Simão+Curado!" />
 </h1>
 
-<h3 align="center">Computer Science & Engineering Student 🇵🇹 | Freelance Developer</h3>
+<h3 align="center">Computer Science & Engineering Student 🇵🇹 | Fullstack Developer</h3>
 
 <br/>
 
 <div align="center">
-  🔭 Currently working as a **freelancer** <br/>
+  🔭 Currently working as a **fullstack developer** <br/>
   🌱 Specializing in **PHP, Laravel, React, JavaScript, Tailwind, Git, Docker & PostgreSQL** <br/>
   ⚡ Fun fact: **I love the gym**
 </div>
