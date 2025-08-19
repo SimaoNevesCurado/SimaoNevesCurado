@@ -8,7 +8,7 @@
 
 <div align="center">
   🔭 Currently working as a fullstack developer <br/>
-  🌱 Specializing in PHP, Laravel, React, JavaScript, Tailwind, Git, Docker & PostgreSQL <br/>
+  🌱 Specializing in PHP, Laravel & React  <br/>
   ⚡ Fun fact: I love the gym
 </div>
 
