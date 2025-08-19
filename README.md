@@ -38,14 +38,30 @@
 <br/>
 <hr/>
 
-<h2 align="center">🌟 Current Focus & Projects 🌟</h2>
+<h2 align="center">💻 Projects 💻</h2>
 <br/>
 
 <div align="center">
-- Building modern web apps with **Laravel + React + Tailwind** <br/>
-- Using **Docker** for containerized development <br/>
-- Managing databases with **PostgreSQL** <br/>
-- Version control & collaboration using **Git**
+
+**Project 1 – MyPortfolio**  
+<img src="https://via.placeholder.com/400x200.png?text=Portfolio+Screenshot" alt="Portfolio Screenshot" width="400" /><br/>
+- Built with **React, Tailwind & Git**  
+- [Live Demo](https://simaocurado.dev) | [Source Code](https://github.com/SimaoNevesCurado/portfolio)
+
+<br/>
+
+**Project 2 – SOMBRAMSITURA**  
+<img src="https://via.placeholder.com/400x200.png?text=SOMBRAMSITURA+Screenshot" alt="SOMBRAMSITURA Screenshot" width="400" /><br/>
+- Built with **Laravel, PHP, PostgreSQL**  
+- [Live Demo](#) | [Source Code](#)
+
+<br/>
+
+**Project 3 – Bakery Shop**  
+<img src="https://via.placeholder.com/400x200.png?text=Bakery+Shop+Screenshot" alt="Bakery Shop Screenshot" width="400" /><br/>
+- Built with **Laravel, React & Docker**  
+- [Live Demo](#) | [Source Code](#)
+
 </div>
 
 <br/>
