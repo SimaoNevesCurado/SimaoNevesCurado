@@ -31,7 +31,7 @@
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,javascript,git,docker,postgresql,tailwind" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,typescript,git,docker,postgresql,tailwind" />
 </div>
 
 <hr/>
