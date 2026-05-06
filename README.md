@@ -1,38 +1,29 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Simão+Curado!" />
-</h1>
-
-<h3 align="center">Computer Science & Engineering Student 🇵🇹 | Fullstack Developer</h3>
-
-<br/>
-
 <div align="center">
-  🔭 Currently working as a fullstack developer <br/>
-  🌱 Specializing in PHP, Laravel & React  <br/>
-  ⚡ Fun fact: I love the gym
+
+# Simão Curado
+
+Fullstack Developer from Portugal 🇵🇹  
+Focused on PHP, Laravel, React & modern web development.
+
+<br>
+
+[Portfolio](https://simaocurado.dev) •
+[LinkedIn](https://www.linkedin.com/in/simaoNevescurado) •
+[Email](mailto:simao.curadoo@gmail.com)
+
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <a href="mailto:simao.curadoo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://simaocurado.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/simaoNevescurado" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+## Stack
 
-<hr/>
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,typescript,postgresql,docker,tailwind,git" />
+</p>
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+## About
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,typescript,git,docker,postgresql,tailwind" />
-</div>
-
-<hr/>
-
+- Fullstack developer
+- Computer Science & Engineering student
+- Interested in backend architecture, DX and scalable systems
+- Gym enjoyer
