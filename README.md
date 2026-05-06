@@ -2,26 +2,16 @@
 <div align="center">
 
 ```bash
-> whoami
+> loading developer profile...
 
-Simão Curado
-Fullstack Developer
-Portugal 🇵🇹
+Name: Simão Curado
+Role: Fullstack Developer
+Location: Portugal 🇵🇹
 
-Stack:
-- PHP / Laravel
-- React / TypeScript
-- PostgreSQL / Docker
-- Linux / DevOps
+Tech:
+Laravel • React • TypeScript
+PostgreSQL • Docker • Linux
 ```
-
-<img src="https://skillicons.dev/icons?i=php,laravel,react,typescript,postgresql,docker,linux,git" />
-
-<br>
-
-<a href="https://simaocurado.dev">Portfolio</a> •
-<a href="https://www.linkedin.com/in/simaoNevescurado">LinkedIn</a> •
-<a href="mailto:simao.curadoo@gmail.com">Email</a>
 
 </div>
 ```
