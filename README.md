@@ -9,9 +9,9 @@ Role: Fullstack Developer
 Location: Portugal 🇵🇹
 
 Tech:
-Laravel • React • TypeScript
-PostgreSQL • Docker • Linux
-```
+Laravel • React/Vue • TypeScript
+PostgreSQL • Docker • PHP
+
 
 </div>
 ```
