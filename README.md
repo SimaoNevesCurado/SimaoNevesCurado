@@ -1,17 +1,11 @@
-```md
-<div align="center">
+### Hello there 👋
 
-```bash
-> loading developer profile...
+#### A Full-Stack Laravel Developer building secure and scalable applications.
 
-Name: Simão Curado
-Role: Fullstack Developer
-Location: Portugal 🇵🇹
+Full-Stack Developer at SEE;<br>
+MSc Student in Optometry at UBI;<br>
 
-Tech:
-Laravel • React/Vue • TypeScript
-PostgreSQL • Docker • PHP
-
-
-</div>
-```
+- ⚙️ Daily: `.php`, `.laravel`, `.vue`, `.typescript`, `.docker`, `.linux`
+- 🔐 Building GRC, cybersecurity and infrastructure platforms
+- 🚀 Passionate about clean architecture, automation and developer experience
+- 💬 Ask me about **Laravel**, **PHP**, **system architecture**, **cybersecurity** and **self-hosting**
