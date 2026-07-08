@@ -3,7 +3,7 @@
 #### A Full-Stack Laravel Developer building secure and scalable applications.
 
 Full-Stack Developer at SEE;<br>
-MSc Student in Optometry at UBI;<br>
+Final-Year Computer Engineering Student at ULO;<br>
 
 - ⚙️ Daily: `.php`, `.laravel`, `.vue`, `.typescript`, `.docker`, `.linux`
 - 🔐 Building GRC, cybersecurity and infrastructure platforms
