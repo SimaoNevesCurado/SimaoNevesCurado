@@ -1,9 +1,9 @@
 ### Hello there 👋
 
-#### A Full-Stack Laravel Developer building secure and scalable applications.
+#### Full-Stack Laravel Developer building secure and scalable applications.
 
-Full-Stack Developer at SEE;<br>
-Final-Year Computer Engineering Student at ULO/ESTG;<br>
+Final-year Computer Engineering student at ULO/ESTG.
+When I'm not coding, you'll probably find me fishing, running or at the gym.
 
 - ⚙️ Daily: `.php`, `.laravel`, `.vue`, `.typescript`, `.docker`, `.linux`
 - 🔐 Building GRC, cybersecurity and infrastructure platforms
