@@ -3,6 +3,7 @@
 #### Full-Stack Laravel Developer building secure and scalable applications.
 
 Final-year Computer Engineering student at ULO/ESTG.
+<br>
 When I'm not coding, you'll probably find me fishing, running or at the gym.
 
 - ⚙️ Daily: `.php`, `.laravel`, `.vue`, `.typescript`, `.docker`, `.linux`
